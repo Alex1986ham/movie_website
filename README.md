@@ -1,23 +1,4 @@
 # movie_website
 
+The *Movie_Website* is a website showing trailers of six different movies. In addition to the title, the storyline and the picture of the film, a trailer of the film will also be played. This is done by _clicking_ on the picture.
 
-
-# My Fabulous Recipe
-
-This recipe for **cereal and milk** has been passed down my family for months.
-
-## Ingredients
-
-    * Cereal you can find cool cereals [here](https://example.com/coolcereals)
-    * Milk
-
-## Directions
-
-If I were writing these out as _code_, it might look something like this:
-
-'''
-if bowl is empty:
-    add cereal
-if bowl only has cereal in it:
-    add milk
-'''
