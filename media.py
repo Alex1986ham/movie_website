@@ -2,9 +2,14 @@ import webbrowser
 
 
 class movie():
-    def __init__(self, movie_title, movie_storyline, poster_image, youtube_trailer):
-        """This function contains an instances of the class movie. All arguments are related
-        to instance variables.
+    """
+    This class stores the information about the trailers.
+    """
+    def __init__(
+                self, movie_title, movie_storyline,
+                poster_image, youtube_trailer):
+        """This function contains an instances of the class movie.
+        All arguments are related to instance variables.
         The function takes the following arguments:
             movie_title
             movie_storyline
